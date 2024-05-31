@@ -1,0 +1,40 @@
+{
+  "Informatie": [
+    {
+      "Enunt": "Program secretariat cu publicul",
+      "Mesaj": "L-V: 10:30-15:00",
+      "Data": "10-04-2024",
+      "Autor": "Secretariat CSIE"
+    },
+    {
+      "Enunt": "Alocari bursa",
+      "Mesaj": "In data de 20 a fiecarei luni bursa este livrata catre studentii beneficiari.",
+      "Data": "01-02-2024",
+      "Autor": "Secretariat CSIE"
+    },
+    {
+      "Enunt": "Data prezentarii lucrarii de Licenta",
+      "Mesaj": "Studentii din anul 3 de licenta care au absolvit vor prezenta lucrarea de licenta in perioada 15-20 iulie.",
+      "Data": "12-05-2024",
+      "Autor": "Rectorat"
+    },
+    {
+      "Enunt": "Perioada sesiunii",
+      "Mesaj": "Studentii sustin examenele din sesiune in perioada 3.06.2024- 23.06.2024.",
+      "Data": "10-04-2024",
+      "Autor": "Rectorat"
+    },
+    {
+      "Enunt": "Eliberare adeverinta student",
+      "Mesaj": "Studentii inscrisi la programul de licenta si masterat isi pot elibera adeverinta de la secretariat.",
+      "Data": "10-03-2024",
+      "Autor": "Secretariat CSIE"
+    },
+    {
+      "Enunt": "Data si actele necesare pentru inscrierea la programul de Licenta",
+      "Mesaj": "Data: 13-19 iulie 2024. Acte necesare inscriere: buletin personal, diploma de bacalaureat, dosar medical, certificat de nastere",
+      "Data": "10-05-2024",
+      "Autor": "ASE"
+    }
+  ]
+}

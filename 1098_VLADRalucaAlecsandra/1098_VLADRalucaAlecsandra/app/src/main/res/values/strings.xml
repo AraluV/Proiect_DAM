@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Informatii</string>
+    <string name="meniu_adaugareNota">Adauga nota</string>
+    <string name="meniu_vizualizareNote">Vezi note</string>
+    <string name="meniu_despre">Despre</string>
+    <string name="enunt">Enunt</string>
+    <string name="mesaj">Mesaj</string>
+    <string name="autor">Autor</string>
+    <string name="data">Data</string>
+    <string name="inchide">Inchide</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="selecteaza_enunt">Selecteaza enunt</string>
+</resources>
